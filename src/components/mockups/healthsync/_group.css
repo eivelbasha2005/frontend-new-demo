@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --hs-primary: #1A6BCC;
+  --hs-primary-dark: #1255A8;
+  --hs-primary-light: #EBF3FF;
+  --hs-secondary: #0DC9B1;
+  --hs-secondary-light: #E6FAF8;
+  --hs-bg: #F4F7FB;
+  --hs-surface: #FFFFFF;
+  --hs-border: #E2EAF4;
+  --hs-text-primary: #0F1F3D;
+  --hs-text-secondary: #4A6080;
+  --hs-text-muted: #8BA3C0;
+  --hs-normal: #22C55E;
+  --hs-normal-light: #DCFCE7;
+  --hs-elevated: #F59E0B;
+  --hs-elevated-light: #FEF3C7;
+  --hs-critical: #EF4444;
+  --hs-critical-light: #FEE2E2;
+  --hs-info: #3B82F6;
+  --hs-info-light: #DBEAFE;
+  --hs-radius-sm: 10px;
+  --hs-radius-md: 16px;
+  --hs-radius-lg: 24px;
+  --hs-radius-xl: 32px;
+  --hs-shadow-sm: 0 1px 3px rgba(15,31,61,0.08), 0 1px 2px rgba(15,31,61,0.04);
+  --hs-shadow-md: 0 4px 12px rgba(15,31,61,0.10), 0 2px 6px rgba(15,31,61,0.06);
+  --hs-shadow-lg: 0 8px 24px rgba(15,31,61,0.12), 0 4px 12px rgba(15,31,61,0.06);
+  --font-sans: 'Plus Jakarta Sans', 'Inter', sans-serif;
+}
+
+* {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

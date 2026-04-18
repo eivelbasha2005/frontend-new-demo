@@ -1,0 +1,143 @@
+[
+  {
+    "componentName": "Splash",
+    "inferredPurpose": "splash screen",
+    "routePath": "/preview/healthsync/Splash",
+    "screenshotFile": "01-splash.png",
+    "status": "success"
+  },
+  {
+    "componentName": "Onboarding1",
+    "inferredPurpose": "onboarding heart health",
+    "routePath": "/preview/healthsync/Onboarding1",
+    "screenshotFile": "02-onboarding-heart-health.png",
+    "status": "success",
+    "note": "Inferred from the screen title 'Monitor Your Heart Health'."
+  },
+  {
+    "componentName": "Onboarding2",
+    "inferredPurpose": "onboarding blood oxygen",
+    "routePath": "/preview/healthsync/Onboarding2",
+    "screenshotFile": "03-onboarding-blood-oxygen.png",
+    "status": "success",
+    "note": "Inferred from the screen title 'Track Blood Oxygen Levels'."
+  },
+  {
+    "componentName": "Onboarding3",
+    "inferredPurpose": "onboarding ai insights",
+    "routePath": "/preview/healthsync/Onboarding3",
+    "screenshotFile": "04-onboarding-ai-insights.png",
+    "status": "success",
+    "note": "Inferred from the screen title 'AI-Powered Health Insights'."
+  },
+  {
+    "componentName": "Onboarding4",
+    "inferredPurpose": "onboarding smart alerts",
+    "routePath": "/preview/healthsync/Onboarding4",
+    "screenshotFile": "05-onboarding-smart-alerts.png",
+    "status": "success",
+    "note": "Inferred from the screen title 'Smart Alerts & Notifications'."
+  },
+  {
+    "componentName": "Login",
+    "inferredPurpose": "login",
+    "routePath": "/preview/healthsync/Login",
+    "screenshotFile": "06-login.png",
+    "status": "success"
+  },
+  {
+    "componentName": "Signup",
+    "inferredPurpose": "signup account details",
+    "routePath": "/preview/healthsync/Signup",
+    "screenshotFile": "07-signup-account-details.png",
+    "status": "success",
+    "note": "Inferred from the screen title 'Account details'."
+  },
+  {
+    "componentName": "SignupStep2",
+    "inferredPurpose": "signup health information",
+    "routePath": "/preview/healthsync/SignupStep2",
+    "screenshotFile": "08-signup-health-information.png",
+    "status": "success",
+    "note": "Inferred from the screen title 'Health information'."
+  },
+  {
+    "componentName": "ResetPassword",
+    "inferredPurpose": "reset password",
+    "routePath": "/preview/healthsync/ResetPassword",
+    "screenshotFile": "09-reset-password.png",
+    "status": "success"
+  },
+  {
+    "componentName": "ResetSuccess",
+    "inferredPurpose": "reset email sent",
+    "routePath": "/preview/healthsync/ResetSuccess",
+    "screenshotFile": "10-reset-email-sent.png",
+    "status": "success",
+    "note": "Inferred from the confirmation title 'Email Sent!'."
+  },
+  {
+    "componentName": "Dashboard",
+    "inferredPurpose": "dashboard",
+    "routePath": "/preview/healthsync/Dashboard",
+    "screenshotFile": "11-dashboard.png",
+    "status": "success"
+  },
+  {
+    "componentName": "AIAnalysis",
+    "inferredPurpose": "ai analysis",
+    "routePath": "/preview/healthsync/AIAnalysis",
+    "screenshotFile": "12-ai-analysis.png",
+    "status": "success"
+  },
+  {
+    "componentName": "HealthHistory",
+    "inferredPurpose": "health history",
+    "routePath": "/preview/healthsync/HealthHistory",
+    "screenshotFile": "13-health-history.png",
+    "status": "success"
+  },
+  {
+    "componentName": "VitalHeartRate",
+    "inferredPurpose": "vital heart rate",
+    "routePath": "/preview/healthsync/VitalHeartRate",
+    "screenshotFile": "14-vital-heart-rate.png",
+    "status": "success"
+  },
+  {
+    "componentName": "VitalBP",
+    "inferredPurpose": "vital blood pressure",
+    "routePath": "/preview/healthsync/VitalBP",
+    "screenshotFile": "15-vital-blood-pressure.png",
+    "status": "success"
+  },
+  {
+    "componentName": "VitalOxygen",
+    "inferredPurpose": "vital blood oxygen",
+    "routePath": "/preview/healthsync/VitalOxygen",
+    "screenshotFile": "16-vital-blood-oxygen.png",
+    "status": "success"
+  },
+  {
+    "componentName": "VitalGlucose",
+    "inferredPurpose": "vital blood glucose",
+    "routePath": "/preview/healthsync/VitalGlucose",
+    "screenshotFile": "17-vital-blood-glucose.png",
+    "status": "success"
+  },
+  {
+    "componentName": "Notifications",
+    "inferredPurpose": "notifications",
+    "routePath": "/preview/healthsync/Notifications",
+    "screenshotFile": "18-notifications.png",
+    "status": "success",
+    "note": "The component is named 'Notifications' but the visible screen title is 'Alerts'."
+  },
+  {
+    "componentName": "Profile",
+    "inferredPurpose": "profile",
+    "routePath": "/preview/healthsync/Profile",
+    "screenshotFile": "19-profile.png",
+    "status": "success"
+  }
+]
